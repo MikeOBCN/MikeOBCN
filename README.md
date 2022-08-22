@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikeOBCN
+- 👋 Hi, I’m Michael Orieux
 - 👀 I’m interested in mathematics, computer sciences, data sciences, control theory, dynamical systems and neuroscience.
 - 🌱 I’m currently learning Data engineering and Machine Learning
 - 💞️ I’m looking to collaborate on big data projects
